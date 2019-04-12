@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <drawable name="bg_select">#f2f9fd</drawable>
+    <drawable name="profile">#AFAFAF</drawable>
+    <drawable name="invisible">#00ff0000</drawable>
+</resources>
